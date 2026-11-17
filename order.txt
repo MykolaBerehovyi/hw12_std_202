@@ -1,0 +1,10 @@
+SDT 150: Calculus for Engineers
+SDT 151: Calculus for Engineers II
+SDT 250-D: Discrete Mathematical Structures
+SDT 105: Computer Systems Fundamentals and Assembly Language
+SDT 100: Principles of Programming
+SDT 305: Principles of Database Management
+SDT 202-D: Design and Analysis of Data Structures and Algorithms
+SDT 108: Python Programming for Data Scientists
+SDT 212-D: AI in Software Engineering
+SDT 208: Fundamentals of Backend Development with AI
